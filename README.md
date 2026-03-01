@@ -1,91 +1,191 @@
-# Olá! Bem-vindo ao meu perfil! 
-Sou **Engenheiro de Dados e Especialista em Banco de Dados e BI**, com experiência sólida em **SQL, ETL, Integração de Sistemas, Business Intelligence, Engenharia e Governança de Dados**. Tenho atuado em projetos de **construção de pipelines de dados, modelagem de bases estruturadas, automação de processos e desenvolvimento de dashboards interativos**, sempre com foco em **performance, confiabilidade e geração de insights estratégicos**.
+<div align="center">
+
+<!-- Header animado com typing SVG -->
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=Vanderl%C3%A2ndio+Rocha;Data+Engineer+%7C+Database+Specialist+%7C+BI+%7C+Dev" alt="Typing SVG" /></a>
+
+<br/>
+
+<!-- Badges de contato -->
+[![LinkedIn](https://img.shields.io/badge/-Vanderlândio%20Rocha-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vanderlandio-rocha/)
+[![Gmail](https://img.shields.io/badge/-vanderlandio.zr@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vanderlandio.zr@gmail.com)
+[![GitHub](https://img.shields.io/badge/-vandorocha-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vandorocha)
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=vandorocha&color=6C63FF&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/>
+
+</div>
 
 ---
 
-## 🚀 **Resumo Profissional**
+## 🧑‍💻 Sobre mim
 
-* Experiência avançada em bancos de dados relacionais (SQL Server, Oracle e PostgreSQL), incluindo administração, modelagem e otimização de estruturas.
-* Domínio em processos de ETL e engenharia de dados, com uso de ferramentas como SSIS, Pentaho, Databricks e Spark para construção de pipelines robustos e de alta performance.
-* Especialista em tuning de consultas e criação de views, procedures, funções e jobs, garantindo eficiência no processamento de grandes volumes de dados.
-* Desenvolvimento de pipelines críticos de dados, assegurando confiabilidade, integridade e disponibilidade contínua das informações.
-* Experiência em Business Intelligence (BI), com desenvolvimento de dashboards estratégicos e operacionais em Power BI e TOTVS Fast Analytics, apoiando decisões financeiras, logísticas e comerciais.
-* Forte atuação na integração de sistemas corporativos (ERPs Winthor, TOTVS RM e WMS), além da implantação de soluções como PlanejaMais (IBM) e sistemas de Trade Marketing, que aumentaram a produtividade de equipes em até 20%.
-* Vivência em automação de processos com Python e C#, reduzindo em até 30% o tempo de execução de rotinas críticas e aumentando a confiabilidade operacional.
-* Atuação em governança de dados e conformidade regulatória, com experiência no atendimento a requisitos da ANS e geração de relatórios estratégicos e regulatórios.
+Engenheiro de Dados com **4+ anos de experiência** em ambientes críticos de banco de dados, ETL e Business Intelligence. Atuo na construção de pipelines robustos, otimização de consultas complexas e desenvolvimento de dashboards estratégicos que impactam diretamente resultados de negócio.
 
----
+Paralelamente, mantenho estudos contínuos em **desenvolvimento web e programação**, construindo projetos com **Python, JavaScript, Node.js, HTML/CSS** e explorando arquiteturas modernas de software.
 
-## 📊 **Habilidades Técnicas**
-
-* **Bancos de Dados**: SQL Server, Oracle (SQL/PLSQL), PostgreSQL
-* **ETL & Pipelines**: SSIS, Pentaho, Databricks, Spark
-* **BI & Visualização**: Power BI, TOTVS Fast Analytics
-* **Linguagens**: SQL | T-SQL | PL/SQL | Python | C#
-* **Cloud & Ferramentas**: AWS, TOTVS Cloud, Git/GitHub
-* **Integração de Sistemas**: ERP Winthor, TOTVS RM, WMS, APIs REST
+```text
+🏢  Atualmente    →  Analista de ETL Sênior na .add (pipelines SRO/SUSEP)
+📍  Localização   →  São Caetano – PE, Brasil
+🎓  Formação      →  2x Pós-Graduação (Ciência de Dados & Administração de BD)
+🚀  Foco atual    →  Engenharia de Dados | Cloud | Desenvolvimento Web
+📚  Estudando     →  Arquiteturas em nuvem, APIs RESTful, Front-end moderno
+```
 
 ---
 
-## 💼 **Experiências Recentes**
+## 🏆 Resultados & Impacto
 
-* **Confitec (2025)** – Desenvolvedor SQL
-  Monitoramento de pipelines críticos em **SQL Server (SSIS)**, tuning de procedures, automações em Python/C# e suporte a processos contábeis e regulatórios no sistema Gepro.
+<div align="center">
 
-* **Result (2024 – 2025)** – Analista de Dados
-  Estruturação de banco de dados com **PostgreSQL**, criação de ETLs no **Pentaho**, dashboards em Power BI e otimização de API em **Databricks/Spark**, reduzindo tempo processamento e otimizando processo de carga de dados.
+| 🔧 Entrega | 📈 Resultado |
+|:---|:---|
+| Reestruturação de pipelines PostgreSQL + Pentaho | **↓ 95%** no tempo de ingestão de dados |
+| Redesenho de APIs em Spark/Databricks | Eliminação de falhas críticas em relatórios |
+| Dashboards estratégicos (Power BI & TOTVS FA) | **↑ 20%** na produtividade do time de vendas |
+| Automações com Python e C# | **↓ 30%** no tempo de rotinas críticas |
+| Sustentação de cargas SSIS/SQL Server | Conformidade regulatória SUSEP garantida |
 
-* **Cardeal Distribuidora (2022 – 2023)** – Analista de Desenvolvimento de Sistemas
-  Integração de sistemas com **ERPs**, implantação de sistemas corporativos, criação e otimização de objetos no banco Oracle com SQL e PLSQL, criação de dashboards estratégicos com TOTVS Fast Analytics resultando em insights que aumentaram em **20% na produtividade do time de vendas**.
-
----
-
-## 🎓 **Formação Acadêmica**
-
-* Pós-Graduação em **Ciência de Dados e Big Data Analytics** – IMES (2025)
-* Pós-Graduação em **Administração de Banco de Dados e Big Data** – Faculdade Focus (2022)
-* Graduação em **Análise e Desenvolvimento de Sistemas** – Estácio (2021)
+</div>
 
 ---
 
-## 📜 **Certificações**
+## ⚙️ Tech Stack
 
-* Turbo SQL – Formação Completa em SQL Server (2025)
-* **Google Data Analytics Professional Certificate** (2023)
-* **Microsoft Power BI para BI e Data Science** – DSA (2023)
-* Banco de Dados Oracle SQL + PLSQL + Modelagem – Udemy (2023)
-* Ciências de Dados com Python – DIO (2023)
-* AWS re/Start Graduate – AWS/Escola da Nuvem (2024)
+<div align="center">
 
----
+### 🗄️ Bancos de Dados & ETL
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![SSIS](https://img.shields.io/badge/SSIS-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![Pentaho](https://img.shields.io/badge/Pentaho-2B579A?style=for-the-badge&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
 
-## 📊 **Estatísticas do GitHub**
+### 📊 BI & Visualização
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![TOTVS Fast Analytics](https://img.shields.io/badge/TOTVS%20Fast%20Analytics-003366?style=for-the-badge&logoColor=white)
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=vandorocha\&show_icons=true\&theme=radical)
+### 💻 Linguagens & Desenvolvimento
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![T-SQL](https://img.shields.io/badge/T--SQL-CC2927?style=for-the-badge&logoColor=white)
+![PL/SQL](https://img.shields.io/badge/PL%2FSQL-F80000?style=for-the-badge&logoColor=white)
 
-[![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=vandorocha\&layout=compact\&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+### ☁️ Cloud & Ferramentas
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20API-009688?style=for-the-badge&logoColor=white)
 
----
-
-## 💼 **Projetos em Destaque**
-
-* [📊 **Análise de Dados com SQL**](https://github.com/vandorocha/projeto-analise-sql) – consultas avançadas, dashboards e relatórios de BI.
-* [💻 **Sistema de Gestão Web**](https://github.com/vandorocha/sistema-gestao-web) – desenvolvimento full-stack para gerenciamento corporativo.
-* [🔗 **API de Microserviços**](https://github.com/vandorocha/api-microservices) – integração de sistemas e serviços RESTful.
-* [📈 **Dashboard de BI**](https://github.com/vandorocha/dashboard-bi) – visualizações e insights estratégicos a partir de dados reais.
-
----
-
-## ⚡ **Atividade Recente**
-
-[![Vanderlândio's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=vandorocha\&theme=react-dark)](https://github.com/vandorocha)
-
----
-
-## 🌐 **Conecte-se comigo**
-
-* **LinkedIn**: [Vanderlândio Zeferino da Rocha](https://www.linkedin.com/in/vanderlandio-rocha/)
-* **Email**: [vanderlandio.zr@gmail.com](mailto:vanderlandio.zr@gmail.com)
+</div>
 
 ---
 
+## 📜 Certificações
+
+<div align="center">
+
+| Certificação | Ano |
+|:---|:---:|
+| 🏅 Turbo SQL – Formação Completa em SQL Server | 2025 |
+| 🏅 AWS re/Start Graduate – Escola da Nuvem | 2024 |
+| 🏅 Google Data Analytics Professional Certificate | 2023 |
+| 🏅 Microsoft Power BI para BI e Data Science – DSA | 2023 |
+| 🏅 Oracle SQL + PL/SQL + Modelagem – Udemy | 2023 |
+| 🏅 Ciências de Dados com Python – DIO | 2023 |
+
+</div>
+
+---
+
+## 📈 GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=vandorocha&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=C9D1D9" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vandorocha&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=C9D1D9" />
+
+<br/>
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=vandorocha&theme=tokyonight&hide_border=true&background=0D1117&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF)](https://git.io/streak-stats)
+
+</div>
+
+---
+
+## 🚀 Projetos em Destaque
+
+<div align="center">
+
+<a href="https://github.com/vandorocha/projeto-analise-sql">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vandorocha&repo=projeto-analise-sql&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=C9D1D9" />
+</a>
+<a href="https://github.com/vandorocha/sistema-gestao-web">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vandorocha&repo=sistema-gestao-web&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=C9D1D9" />
+</a>
+
+<br/><br/>
+
+<a href="https://github.com/vandorocha/api-microservices">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vandorocha&repo=api-microservices&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=C9D1D9" />
+</a>
+<a href="https://github.com/vandorocha/dashboard-bi">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vandorocha&repo=dashboard-bi&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=C9D1D9" />
+</a>
+
+</div>
+
+---
+
+## 📊 Atividade Recente
+
+<div align="center">
+
+[![Vanderlândio's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=vandorocha&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=6C63FF&line=6C63FF&point=FFFFFF)](https://github.com/vandorocha)
+
+</div>
+
+---
+
+## 🗺️ Trajetória Profissional
+
+```mermaid
+timeline
+    title Evolução Profissional
+    2021 : 🎓 Graduação em ADS – Estácio
+    2022 : 📚 Pós-Graduação em Admin. de BD
+         : 🏢 Cardeal Distribuidora – Analista de Desenvolvimento
+    2023 : 🏅 Google Data Analytics Certificate
+         : 🏅 Oracle SQL + PL/SQL
+    2024 : 🏢 Result Consultoria – Analista de Banco de Dados
+         : ☁️ AWS re/Start Graduate
+         : 📚 Pós-Graduação em Ciência de Dados
+    2025 : 🏢 Confitec – Desenvolvedor SQL
+         : 🏢 .add – Analista de ETL Sênior
+         : 🏅 Turbo SQL – Formação Completa
+```
+
+---
+
+<div align="center">
+
+### 💬 Vamos conversar?
+
+Estou sempre aberto a trocar ideias sobre **Engenharia de Dados**, **Banco de Dados**, **Desenvolvimento Web** e **novas tecnologias**.
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/-Me%20encontre%20no%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vanderlandio-rocha/)
+[![Email](https://img.shields.io/badge/-Envie%20um%20email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vanderlandio.zr@gmail.com)
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=100&section=footer" width="100%"/>
+
+</div>
