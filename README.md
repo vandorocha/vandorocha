@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Header animado com typing SVG -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=Vanderl%C3%A2ndio+Rocha;Data+Engineer+%7C+Database+Specialist+%7C+BI+%7C+Dev" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3500&pause=1200&color=6C63FF&center=true&vCenter=true&multiline=false&repeat=true&width=750&height=45&lines=Vando+Rocha;Especialista+em+Banco+de+Dados+%26+ETL;SQL+Server+%C2%B7+PostgreSQL+%C2%B7+Oracle;BI+%26+Automa%C3%A7%C3%A3o" alt="Typing SVG" /></a>
 
 <br/>
 
@@ -20,9 +20,12 @@
 
 ## 🧑‍💻 Sobre mim
 
-Engenheiro de Dados com **4+ anos de experiência** em ambientes críticos de banco de dados, ETL e Business Intelligence. Atuo na construção de pipelines robustos, otimização de consultas complexas e desenvolvimento de dashboards estratégicos que impactam diretamente resultados de negócio.
+Especialista em Banco de Dados e ETL com experiência em ambientes críticos, atuando com SQL Server, PostgreSQL e Oracle. 
+Meu trabalho envolve modelagem e otimização de bases, criação e sustentação de pipelines de carga (SSIS, Pentaho), desenvolvimento de procedures, views e triggers de alta complexidade, além de dashboards estratégicos em Power BI que impactam diretamente decisões de negócio.
 
-Paralelamente, mantenho estudos contínuos em **desenvolvimento web e programação**, construindo projetos com **Python, JavaScript, Node.js, HTML/CSS** e explorando arquiteturas modernas de software.
+Tenho vivência sólida em integração de sistemas corporativos (ERPs, WMS, APIs) e automação de processos com Python e C#, com entregas que reduziram tempo de ingestão de dados em até 95% e aumentaram a produtividade de equipes em 20%.
+
+Atualmente, estudo Engenharia de Dados em nuvem (Databricks, Spark, AWS) e desenvolvimento web (JavaScript, Node.js, HTML/CSS, Java), expandindo meu stack para arquiteturas modernas e soluções cloud-native.
 
 ```text
 🏢  Atualmente    →  Analista de ETL Sênior na .add (pipelines SRO/SUSEP)
@@ -109,11 +112,6 @@ Paralelamente, mantenho estudos contínuos em **desenvolvimento web e programaç
 <div align="center">
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=vandorocha&theme=tokyonight&hide_border=true&background=0D1117&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF)](https://git.io/streak-stats)
-
-<br/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=vandorocha&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=C9D1D9&cache_seconds=86400&include_all_commits=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vandorocha&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=C9D1D9&cache_seconds=86400" />
 
 </div>
 
