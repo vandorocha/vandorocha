@@ -108,12 +108,12 @@ Paralelamente, mantenho estudos contínuos em **desenvolvimento web e programaç
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=vandorocha&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=C9D1D9" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vandorocha&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=C9D1D9" />
+[![GitHub Streak](https://streak-stats.demolab.com?user=vandorocha&theme=tokyonight&hide_border=true&background=0D1117&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF)](https://git.io/streak-stats)
 
 <br/>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=vandorocha&theme=tokyonight&hide_border=true&background=0D1117&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF)](https://git.io/streak-stats)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=vandorocha&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=C9D1D9&cache_seconds=86400&include_all_commits=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vandorocha&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=C9D1D9&cache_seconds=86400" />
 
 </div>
 
@@ -121,24 +121,50 @@ Paralelamente, mantenho estudos contínuos em **desenvolvimento web e programaç
 
 ## 🚀 Projetos em Destaque
 
+<!-- 
+  ⚠️ IMPORTANTE: Atualize os links abaixo com seus repositórios reais.
+  Se o repo não existir publicamente, o card ainda funciona (diferente dos pin cards).
+-->
+
 <div align="center">
+<table>
+<tr>
+<td width="50%" valign="top">
 
-<a href="https://github.com/vandorocha/projeto-analise-sql">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vandorocha&repo=projeto-analise-sql&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=C9D1D9" />
-</a>
-<a href="https://github.com/vandorocha/sistema-gestao-web">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vandorocha&repo=sistema-gestao-web&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=C9D1D9" />
-</a>
+### 📊 [Análise de Dados com SQL](https://github.com/vandorocha/projeto-analise-sql)
+Consultas avançadas, dashboards e relatórios de BI com foco em performance e insights estratégicos.
 
-<br/><br/>
+`SQL` `T-SQL` `Power BI`
 
-<a href="https://github.com/vandorocha/api-microservices">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vandorocha&repo=api-microservices&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=C9D1D9" />
-</a>
-<a href="https://github.com/vandorocha/dashboard-bi">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vandorocha&repo=dashboard-bi&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=C9D1D9" />
-</a>
+</td>
+<td width="50%" valign="top">
 
+### 💻 [Sistema de Gestão Web](https://github.com/vandorocha/sistema-gestao-web)
+Desenvolvimento full-stack para gerenciamento corporativo com interface moderna.
+
+`JavaScript` `Node.js` `HTML/CSS`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🔗 [API de Microserviços](https://github.com/vandorocha/api-microservices)
+Integração de sistemas e serviços RESTful com arquitetura escalável.
+
+`Python` `REST API` `Node.js`
+
+</td>
+<td width="50%" valign="top">
+
+### 📈 [Dashboard de BI](https://github.com/vandorocha/dashboard-bi)
+Visualizações interativas e insights estratégicos a partir de dados reais.
+
+`Power BI` `SQL` `Python`
+
+</td>
+</tr>
+</table>
 </div>
 
 ---
